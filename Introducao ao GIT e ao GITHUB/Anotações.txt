@@ -1,0 +1,6 @@
+Link para Download do git https://git-scm.com/
+O git bash é um terminal extendido para otimizar o uso do git
+Comandos GIT commit
+Adicionar pasta no repositório
+git add -a
+
