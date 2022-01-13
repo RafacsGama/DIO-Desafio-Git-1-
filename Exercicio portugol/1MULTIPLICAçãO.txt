@@ -1,0 +1,13 @@
+Algoritmo "multiplicação"
+
+Var
+n,cont:inteiro
+Inicio
+escreva("Digite um VALOR (INTEIRO)")
+leia(n)
+cont<-1
+enquanto (cont<21) faca
+escreval(n," x",cont," =", n*cont)
+cont<-cont+1
+fimenquanto
+Fimalgoritmo
